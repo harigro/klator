@@ -1,5 +1,9 @@
 # klator
 
-klator adalah kalkulator sederhana yang dimaksudkan untuk bahan belajar dalam pembuatan aplikasi menggunakan flutter.
+klator adalah kalkulator sederhana yang dimaksudkan untuk bahan belajar dalam pembuatan aplikasi menggunakan flutter dan berjalan di linux.
 
-
+## Cara menjalankan program
+unduh program, ektrak berkas, masuk ke folder klator-main melalui terminal dan jalakan
+```bash
+flutter run
+```
